@@ -23,7 +23,7 @@ Sample Data Attribution
 * Project:  [mrtoolkit][mrtoolkit]    
   File:     [raw-logs][mrlogs]   
   Author:   [Charles Hayden][chayden]   
-  License:  [][]    
+  License:  [GPLv3][gplv3]    
 
 * Project:  [IP to Country][geo-ip]     
   File:     [geo-ip][geo-ip]    
@@ -68,7 +68,7 @@ Individual Contributors
 [windycity]:http://windycitydb.org/
 [wcfiles]:http://github.com/chicagoruby/Windy-City-DB-Dataset
 [stackoverflow]:http://blog.stackoverflow.com/category/cc-wiki-dump/
-
+[gplv3]:http://www.gnu.org/licenses/gpl.html
 
 
 
