@@ -1,0 +1,9 @@
+sample_data/Windy-City-DB-Dataset
+sample_data/Windy-City-DB-Dataset/*
+sample_data/ip_to_country
+sample_data/ip_to_country/*
+sample_data/raw-logs
+sample_data/raw-logs/*
+.DS_Store
+
+
