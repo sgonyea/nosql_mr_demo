@@ -20,20 +20,20 @@ I hope you find it useful! I appreciate any and all feedback.
 
 Sample Data Attribution
 -----------------------
-* Project:  [mrtoolkit][mrtoolkit]    
-  File:     [raw-logs][mrlogs]   
-  Author:   [Charles Hayden][chayden]   
-  License:  [GPLv3][gplv3]    
+**Project**:  [mrtoolkit][mrtoolkit]    
+**File**:     [raw-logs][mrlogs]   
+**Author**:   [Charles Hayden][chayden]   
+**License**:  [GPLv3][gplv3]    
 
-* Project:  [IP to Country][geo-ip]     
-  File:     [geo-ip][geo-ip]    
-  Author:   [Webnet77][webnet77]    
-  License:  [Click for Author's Message (GPLv3)][geo-ip]    
+**Project**:  [IP to Country][geo-ip]     
+**File**:     [geo-ip][geo-ip]    
+**Author**:   [Webnet77][webnet77]    
+**License**:  [Click for Author's Message (GPLv3)][geo-ip]    
 
-* Project:  [Windy City DB][geo-ip]     
-  File:     [Windy-City-DB-Dataset][wcfiles]    
-  Author:   [Stack Overflow][stackoverflow]    
-  License:  [Click for Author's Message (Creative Commons)][geo-ip]    
+**Project**:  [Windy City DB][geo-ip]     
+**File**:     [Windy-City-DB-Dataset][wcfiles]    
+**Author**:   [Stack Overflow][stackoverflow]    
+**License**:  [Click for Author's Message (Creative Commons)][geo-ip]    
 
 
 Source Code Attribution
