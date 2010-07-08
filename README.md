@@ -12,14 +12,16 @@ Synopsis
 --------
 
 This project was created to highlight a few of the use-cases for MapReduce, with the [riak][basho] key/value 
-store being used (in my case).  That said; this data, the demonstrated concepts, and even some of the code, 
+store being used for demonstration.  That said; this data, the demonstrated concepts, and even some of the code, 
 should prove to be both portable and useful, as you explore various MapReduce implementations.
 
 This project's data and source code will be used in my presentation at the LA Ruby Meetup (July 2010). 
 I hope you find it useful! I appreciate any and all feedback. 
 
+
 Sample Data Attribution
 -----------------------
+
 **Project**:  [mrtoolkit][mrtoolkit]    
 **File**:     [raw-logs][mrlogs]   
 **Author**:   [Charles Hayden][chayden]   
@@ -42,17 +44,22 @@ Source Code Attribution
 
 
 
+Requirements
+------------
+
+- riak _(to use the source code without modification)_
+- curl
+- ruby 1.9.1 _(not tested on anything else)_
+- gem: rake
+- gem: riak-client _(officially supported by Basho)_
+
+
 Usage
 -----
 
-
-
-Individual Contributors
------------------------
-
-
-
-
+Please see the respective files for the various chunks of sample data.  They include instructions 
+on how to load the data into riak, as well as various MapReduce functions.  You may also look at 
+the included Keynote presentation (+pdf) to see what all is highlighted by myself.
 
 
 
